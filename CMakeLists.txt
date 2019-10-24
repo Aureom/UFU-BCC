@@ -3,4 +3,4 @@ project(Treinamento_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Treinamento_C main.c)
+add_executable(Treinamento_C "Lista 4/main.c")
