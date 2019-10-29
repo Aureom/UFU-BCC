@@ -3,4 +3,9 @@ project(Treinamento_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Treinamento_C "Lista 4/exercicio1.c" "Lista 4/exercicio2.c" "Lista 4/exercicio3.c")
+AUX_SOURCE_DIRECTORY("Lista 4" APP_SOURCES)
+foreach(FILE ${APP_SOURCES})
+    string(REPLACE ".c" "" NAME ${FILE})
+    string(REPLACE "Lista 4/" "" NAME ${NAME})
+    add_executable(${NAME} ${FILE})
+endforeach()
