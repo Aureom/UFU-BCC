@@ -8,11 +8,11 @@
 #include <stdlib.h>
 
 int main(){
-    double value[8];
+    double value[7];
     int x = 0, y = 0;
 
     for (int i = 0; i < 8; ++i) {
-        printf("\nInsira o %d\xf8 numero: ", i);
+        printf("\nInsira o %d\xf8 numero: ", i + 1);
         scanf("%lf", &value[i]);
     }
 

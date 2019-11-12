@@ -13,7 +13,7 @@ int main() {
     int day = 0, month = 0, year;
     printf("Insira a data no seguinte formato (DD/MM/AAAA): ");
     while(!(month >= 1 && month <= 12 && day >= 1 && day <= 31)) {
-        scanf("%u/%u/%u", &day, &month, &year);
+        scanf("%d/%d/%d", &day, &month, &year);
     }
     dateConverter(day, month, year);
 }
