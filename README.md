@@ -8,15 +8,15 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 
 ## 📦 Dependências e programas utilizados
 
-| Nome  | Uso no projeto |
-| ------------- | ------------- | 
-| [CLion](https://www.jetbrains.com/clion/) | IDE utilizada |
-
+| Nome                                      | Uso no projeto |
+| ----------------------------------------- | -------------- | 
+| [CLion](https://www.jetbrains.com/clion/) | IDE utilizada  |
 
 ## 🗂 Acesso rápido
 
 📂 *Backes*  
 ├──📁 [Lista 4](./Backes/Lista%204)  
 ├──📁 [Lista 7](./Backes/Lista%207)  
+├──📁 [Lista 8](./Backes/Lista%208)  
 📂 *Elaine*  
 └──📁 [Aula 11](./Elaine/Aula%2011)  
