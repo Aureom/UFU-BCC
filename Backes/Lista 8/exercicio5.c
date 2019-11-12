@@ -13,7 +13,7 @@ int main(){
     int x;
 
     printf("Insira um numero para encontralo na sequencia de fibonacci: ");
-    scanf("%d %d", &x);
+    scanf("%d", &x);
 
     printf("\n = %d", fibonacci(x));
 }
