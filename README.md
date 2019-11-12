@@ -8,10 +8,9 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 
 ## 📦 Dependências e programas utilizados
 
-| Nome  | Uso no projeto |
-| ------------- | ------------- | 
-| [CLion](https://www.jetbrains.com/clion/) | IDE utilizada |
-
+| Nome                                      | Uso no projeto |
+| ----------------------------------------- | -------------- | 
+| [CLion](https://www.jetbrains.com/clion/) | IDE utilizada  |
 
 ## 🗂 Acesso rápido
 
