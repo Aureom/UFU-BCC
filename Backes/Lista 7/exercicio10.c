@@ -1,7 +1,6 @@
 //Fac¸a uma func¸ao que receba dois n ˜ umeros e retorne qual deles ´ e o maior.
 
 #include <stdio.h>
-#include <math.h>
 
 double highestValue(double x, double y){
     return x > y ? x : y;
