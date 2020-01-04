@@ -13,7 +13,7 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 | [CLion](https://www.jetbrains.com/clion/) | IDE utilizada para programação na [linguagem C](https://en.wikipedia.org/wiki/C_(programming_language))  |
 
 ## 🗂 Acesso rápido
-📂 *C*
+📂 *C*  
 ├─📂 *Backes*  
 │ ├──📁 [Lista 4](./C/Backes/Lista%204)  
 │ ├──📁 [Lista 7](./C/Backes/Lista%207)  
