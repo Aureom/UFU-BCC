@@ -1,4 +1,4 @@
-# Trabalhos e exercicios das aulas 👨‍💻
+# Trabalhos e exercícios das aulas 👨‍💻
 
 <p align="center">
 <a href="https://www.codacy.com/manual/Aureom/Treinamento-C?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aureom/Treinamento-C&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/9229c11a972d40dcaf1d1ccdcc22af2c"/></a>
@@ -20,3 +20,12 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 │ ├──📁 [Lista 8](./C/Backes/Lista%208)    
 └ 📂 *Elaine*    
 ⠀⠀└──📁 [Aula 11](./C/Elaine/Aula%2011)    
+
+
+
+
+Outros trabalhos feitos durante a graduação que possuiem uma importancia maior possuiem seu próprio repositório e podem ser acessados pelos links abaixo:
+
+| Nome                                                     | Linguagem utilizada |
+| -------------------------------------------------------- | ------------------- | 
+| [Tetris Attack](https://github.com/Aureom/Tetris-Attack) | [C](https://en.wikipedia.org/wiki/C_(programming_language)))  |
