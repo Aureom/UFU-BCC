@@ -23,8 +23,8 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 
 
 
-
-Outros trabalhos feitos durante a graduação que possuiem uma importancia maior possuiem seu próprio repositório e podem ser acessados pelos links abaixo:
+## Outros trabalhos
+Outros trabalhos (geralmente maiores) feitos durante a graduação que possuiem uma importancia maior possuiem seu próprio repositório e podem ser acessados pelos links abaixo:
 
 | Nome                                                     | Linguagem utilizada |
 | -------------------------------------------------------- | ------------------- | 
