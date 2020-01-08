@@ -11,15 +11,20 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 | Nome                                      | Uso no projeto |
 | ----------------------------------------- | -------------- | 
 | [CLion](https://www.jetbrains.com/clion/) | IDE utilizada para programação na [linguagem C](https://en.wikipedia.org/wiki/C_(programming_language))  |
+| [Intellij IDEA](https://www.jetbrains.com/idea/) | IDE utilizada para programação em [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language))  |
 
 ## 🗂 Acesso rápido
-📂 *C*    
-├─📂 *Backes*    
+📂 *[C](./C)*    
+├─📂 *[Backes](./C/Backes)*    
 │ ├──📁 [Lista 4](./C/Backes/Lista%204)    
 │ ├──📁 [Lista 7](./C/Backes/Lista%207)    
 │ ├──📁 [Lista 8](./C/Backes/Lista%208)    
-└ 📂 *Elaine*    
-⠀⠀└──📁 [Aula 11](./C/Elaine/Aula%2011)    
+└ 📂 *[Elaine](./C/Elaine)*       
+│⠀└──📁 [Aula 11](./C/Elaine/Aula%2011)    
+│   
+📂 *[Haskell](/Haskell)*  
+│  
+📂 *[Prolog](/Prolog)*    
 
 
 
