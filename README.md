@@ -28,4 +28,4 @@ Outros trabalhos (geralmente maiores) feitos durante a graduação que possuiem 
 
 | Nome                                                     | Linguagem utilizada |
 | -------------------------------------------------------- | ------------------- | 
-| [Tetris Attack](https://github.com/Aureom/Tetris-Attack) | [C](https://en.wikipedia.org/wiki/C_(programming_language)))  |
+| [Tetris Attack](https://github.com/Aureom/Tetris-Attack) | [C](https://en.wikipedia.org/wiki/C_(programming_language))  |
