@@ -23,14 +23,17 @@ X = kaio.
 | -        |Subtração              | 4 - 2        | 2          |
 | *        |Multiplicação          | 2 * 4        | 8          |
 | /        |Divisão                | 4 / 2        | 2          |
+| //       |Divisão arredondada    | 7 // 4       | 1          |
+| mod      |Resto da divisão       | 7 mod 4      | 3          |
+| **       |Exponenciação          | 3 ** 2       | 9          |
 
 ## Operadores lógicos
 
-|Operador  |Definição              |Exemplo       | Saida      |
-|----------|-----------------------|--------------|------------|
-| ,        |Conjunção lógica ''E'' | ex :- a, b.  |            |
-| ;        |Disjunção lógica ''OU''| ex :- a; b.  |            |
-| \\+, not |Negação ''NÃO''        | \\+ (2 = 4). | Verdadeiro |
+|Operador    |Definição              |Exemplo       | Saida      |
+|------------|-----------------------|--------------|------------|
+| ,          |Conjunção lógica ''E'' | ex :- a, b.  |            |
+| ;          |Disjunção lógica ''OU''| ex :- a; b.  |            |
+| \\+, not() |Negação ''NÃO''        | \\+ (2 = 4). | Verdadeiro |
 
 ## Operadores comparativos
 
