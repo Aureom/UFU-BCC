@@ -13,6 +13,9 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 | [CLion](https://www.jetbrains.com/clion/) | IDE utilizada para programação na [linguagem C](https://en.wikipedia.org/wiki/C_(programming_language))  |
 | [Intellij IDEA](https://www.jetbrains.com/idea/) | IDE utilizada para programação em [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language))  |
 
+## 🗂 Acesso rápido - ⭐ Arquivos importantes
+📜 *[PROLOG - Um breve resumo sobre a linguagem](/Prolog/README.md)* 
+
 ## 🗂 Acesso rápido
 📂 *[C](./C)*    
 ├─📂 *[Backes](./C/Backes)*    
@@ -25,7 +28,6 @@ Esse repositorio contem ~quase~ todo material, dentre exercicios e trabalhos rea
 📂 *[Haskell](/Haskell)*  
 │  
 📂 *[Prolog](/Prolog)*    
-
 
 
 ## Outros trabalhos
