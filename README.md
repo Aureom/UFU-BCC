@@ -15,10 +15,10 @@ Esse repositório contem ~quase~ todo material, dentre exercícios e trabalhos r
 
 ## 🗂 Acesso rápido - :pencil: Anotações
 - **C** 
-  📜 *[Ponteiros](/Prolog/Anotações/README.md)* 
+	📜 *[Ponteiros](/Prolog/Anotações/README.md)* 
   
 - **PROLOG**
-📜 *[PROLOG - Um breve resumo sobre a linguagem](/Prolog/Anotações/README.md)* 
+	📜 *[PROLOG - Um breve resumo sobre a linguagem](/Prolog/Anotações/README.md)* 
 ## 🗂 Acesso rápido
 📂 *[C](./C)*    
 ├─📂 *[Backes](./C/Exercicios/Backes)*    
