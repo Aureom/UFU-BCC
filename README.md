@@ -4,7 +4,7 @@
 <a href="https://www.codacy.com/manual/Aureom/Treinamento-C?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aureom/Treinamento-C&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/9229c11a972d40dcaf1d1ccdcc22af2c"/></a>
 </p>
 
-Esse repositório contem ~quase~ todo material, dentre exercícios e trabalhos realizados durante as aulas de minha graduação.
+Esse repositório contem ~~quase~~ todo material, dentre exercícios e trabalhos realizados durante as aulas de minha graduação.
 
 ## 📦 Dependências e programas utilizados
 
@@ -14,10 +14,10 @@ Esse repositório contem ~quase~ todo material, dentre exercícios e trabalhos r
 | [Intellij IDEA](https://www.jetbrains.com/idea/) | IDE utilizada para programação em [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) |
 
 ## 🗂 Acesso rápido - :pencil: Anotações
-- **C** 
+- **C**    
 	📜 *[Ponteiros](/Prolog/Anotações/README.md)* 
-  
-- **PROLOG**
+
+- **PROLOG**    
 	📜 *[PROLOG - Um breve resumo sobre a linguagem](/Prolog/Anotações/README.md)* 
 ## 🗂 Acesso rápido
 📂 *[C](./C)*    
@@ -32,10 +32,9 @@ Esse repositório contem ~quase~ todo material, dentre exercícios e trabalhos r
 │  
 📂 *[Prolog](/Prolog)*    
 
-
 ## Outros trabalhos
 Outros trabalhos, feitos durante a graduação que possuem uma importância maior possuem seu próprio repositório e podem ser acessados pelos links abaixo:
 
-| Nome                                                     | Linguagem utilizada |
-| -------------------------------------------------------- | ------------------- |
-| [Tetris Attack](https://github.com/Aureom/Tetris-Attack) | [C](https://en.wikipedia.org/wiki/C_(programming_language))  |
+| Nome                                                     | Linguagem utilizada                                         |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| [Tetris Attack](https://github.com/Aureom/Tetris-Attack) | [C](https://en.wikipedia.org/wiki/C_(programming_language)) |
