@@ -1,0 +1,12 @@
+tipo(pincel,coisa).
+tipo(mesa,coisa).
+tipo(cama,coisa).
+tipo(travesseiro,coisa).
+tipo(papagaio,animal).
+tipo(gato,animal).
+tem(mesa,perna).
+tem(gato,pelos).
+tem(gato,perna).
+tem(papagaio,pena).
+tem(travesseiro,pena).
+tem(pincel,pelos).
