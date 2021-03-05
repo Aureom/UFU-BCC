@@ -46,3 +46,14 @@ Os operadores comparativos, funcionam comparando duas variáveis, como por exemp
 | ==       | Igualdade                          | X == X.                |
 | \\==     | Desigualdade                       | X \\== Y.              |
 | =:=      | Igualdade nos valores da expressão | X =:= Y.               |
+
+## Operadores no modulo sat(...)
+
+| Operador | Definição |
+| -------- | --------- |
+| **~**X   | Negação   |
+| X**+**Y  | OU        |
+| X*****Y  | E         |
+|          |           |
+|          |           |
+
