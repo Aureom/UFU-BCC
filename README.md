@@ -15,22 +15,23 @@ Esse repositório contem ~~quase~~ todo material, dentre exercícios e trabalhos
 
 ## 🗂 Acesso rápido - :pencil: Anotações
 - **C**    
-	📜 *[Ponteiros](/C/Anotações/Ponteiros.md)* 
+	📜 *[Ponteiros](/PP/Anotações/Ponteiros.md)* 
 
 - **PROLOG**    
 	📜 *[PROLOG - Um breve resumo sobre a linguagem](/Prolog/Anotações/Resumo%20prolog.md)* 
 ## 🗂 Acesso rápido
-📂 *[C](./C)*    
-├─📂 *[Backes](./C/Exercicios/Backes)*    
-│ ├──📁 [Lista 4](./C/Exercicios/Backes/Lista%204)    
-│ ├──📁 [Lista 7](./C/Exercicios/Backes/Lista%207)    
-│ ├──📁 [Lista 8](./C/Exercicios/Backes/Lista%208)    
-└ 📂 *[Elaine](./C/Exercicios/Elaine)*       
-│⠀└──📁 [Aula 11](./C/Exercicios/Elaine/Aula%2011)    
+📂 *[Programação Procedimental](./PP)*    
+├─📂 *[Backes](./PP/Exercicios/Backes)*    
+│ ├──📁 [Lista 4](./PP/Exercicios/Backes/Lista%204)    
+│ ├──📁 [Lista 7](./PP/Exercicios/Backes/Lista%207)    
+│ ├──📁 [Lista 8](./PP/Exercicios/Backes/Lista%208)    
+└ 📂 *[Elaine](./PP/Exercicios/Elaine)*       
+│⠀└──📁 [Aula 11](./PP/Exercicios/Elaine/Aula%2011)    
 │   
-📂 *[Haskell](/Haskell)*  
+📂 *[Programação Funcional](/PF)*  
 │  
-📂 *[Prolog](/Prolog)*    
+📂 *[Programação Lógica](/Prolog)*    
+├─📂 *[Trabalho Final](/Prolog/Trabalho%20Final)*
 
 ## Outros trabalhos
 Outros trabalhos, feitos durante a graduação que possuem uma importância maior possuem seu próprio repositório e podem ser acessados pelos links abaixo:
