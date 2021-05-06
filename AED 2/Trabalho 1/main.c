@@ -4,7 +4,7 @@
 /*
     Integrantes:
     Kaio Augusto de Souza 11921BCC040
-    Joao
+    Joao Pedri de Oliveira Martins Vieira 11921BCC017
 */
 
 int main() {
