@@ -298,3 +298,155 @@ verificaComidas n (x : xs) = (linha x || diagonal (zipar [1..n] x)) || verificaC
 nRainhas :: Int -> [[Int]]
 nRainhas 0 = [[]]
 nRainhas n = [x | x <- permutations [1..n], verificaComidas n [x]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Kaio Augusto de Souza 11921BCC040
+
+seleciona :: [[Int]] -> [[Int]]
+seleciona l = [xs | (x : xs) <- l, x < 4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Kaio Augusto de Souza 11921BCC040
+pertence :: Int -> [Int] -> Bool
+pertence x [] = False
+pertence x (y : ys)
+    | x == y = True
+    | otherwise = False
+
+retira_varias [] a = a
+retira_varias [r] l = retira r l
+retira_varias (y:ys) l = retira y l
+
+retira :: Eq a => a -> [a] -> [a]
+retira x (y : ys)
+    | x == y = ys
+    | otherwise  = y : (retira x ys)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{- 
+
+Implemente a função seque, que recebe duas listas e verifica se a segunda lista é uma sequência inicial da primeira. Podemos dizer que as listas [],[1],[1,2],[1,2,3] e [1,2,3,1] são sequências iniciais da lista [1,2,3,1].
+
+> seque [1,2,3,1] [3,1] 
+False
+
+> seque [1,2,3,1] [1,2] 
+True
+
+-- Kaio Augusto de Souza 11921BCC040
+
+-}
+seque :: Eq a => [a] -> [a] -> Bool
+seque [] _ = True
+seque _ [] = True
+seque (x : xs)  (y : ys) = if x == y then seque xs ys else False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{-
+Defina a função representante que recebe uma lista de palavras (dicionário) e uma sequência de consoantes s e
+
+retorna a lista das palavras do dicionário que são representadas pela sequência s. Ou seja, quando as vogais são
+
+eliminadas de uma palavra do dicionário, elas são representadas por uma sequência de consoantes que restam, incluindo
+
+repetições, e na mesma ordem. 
+
+Por exemplo, “px” é a sequência que representa as palavras "puxa","peixe","pixe", mas não representa "pixar".
+
+Ex: 
+
+> dicionario = ["arara","arreio","haskell", "puxa","peixe","pixar","pixe", "vaca","vacuo","velho","vermelho","vicio"]
+
+> representante dicionario  “px”
+["puxa","peixe","pixe"]
+
+-- Kaio Augusto de Souza 11921BCC040
+-}
+
+seque2 :: Eq a => [a] -> [a] -> Bool
+seque2 [] _ = True
+seque2 _ [] = True
+seque2 (x : xs)  (y : ys) = if x == y then seque xs ys else False
+
+retiraVogais :: String -> String
+retiraVogais [] = []
+retiraVogais (x : xs)
+    | x `notElem` "aeiouAEIOU" = x : retiraVogais xs
+    | otherwise = retiraVogais xs
+
+dicionario = ["arara","arreio","haskell", "puxa","peixe","pixar","pixe", "vaca","vacuo","velho","vermelho","vicio"]
+representante :: [String] -> String -> [String]
+representante [] _ = []
+representante (x : xs) cons
+    | seque2 cons (retiraVogais x) = x : representante xs cons
+    | otherwise = representante xs cons
