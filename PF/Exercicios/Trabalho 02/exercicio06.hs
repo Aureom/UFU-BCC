@@ -37,3 +37,8 @@ verifica2A :: Double
 verifica2A = (6 + 8 - 5 + 1) * (2 + 6 / 2)
 verifica2 :: Double
 verifica2 = avalia(Mul (Add (Sub (Add (Val 6) (Val 8)) (Val 5)) (Val 1)) (Add (Val 2) (Div (Val 6) (Val 2))))
+
+verifica3A :: Double
+verifica3A = (9-3+4)*(7-2)/(1*2) 
+verifica3 :: Double
+verifica3 = avalia(Div (Mul (Add (Sub (Val 9) (Val 3)) (Val 4)) (Sub (Val 7) (Val 2))) (Mul (Val 1) (Val 2)))
