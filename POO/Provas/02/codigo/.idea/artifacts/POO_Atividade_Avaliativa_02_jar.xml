@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="POO-Atividade-Avaliativa-02:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/POO_Atividade_Avaliativa_02_jar</output-path>
+    <root id="archive" name="POO-Atividade-Avaliativa-02.jar">
+      <element id="module-output" name="POO-Atividade-Avaliativa-02" />
+    </root>
+  </artifact>
+</component>
